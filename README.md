@@ -41,11 +41,11 @@ Menggunakan **Tailwind CSS** dengan *Clean UI / Modern EduTech Theme*. Sistem me
 ---
 
 ### Kredensial Uji Coba (Bawaan Seeder)
-Password untuk semua akun di bawah ini adalah: `password`
+Password untuk semua akun di bawah ini adalah: `12345678`
 
 | Role | Identitas Login (Username) |
 | :--- | :--- |
 | **Admin** | admin@siakad.com |
-| **Dosen** | 1111111111 |
-| **Dosen** | 2222222222 |
-| **Mahasiswa** | 5520122139 |
+| **Dosen** | lalan@siakad.com |
+| **Dosen** | bunda@siakad.com |
+| **Mahasiswa** | reza@siakad.com |
